@@ -1,0 +1,5 @@
+student1, Monday 4:00, Monday 5:00, Tuesday 7:00, Wednesday 12:30
+student2, Monday 4:00, Monday 6:00, Tuesday 6:00, Wednesday 4:00
+student3, Tuesday 7:00, Wednesday 4:00
+student4, Monday 6:00, Tuesday 7:00, Wednesday 12:30
+

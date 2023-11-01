@@ -1,0 +1,3 @@
+*Bob, Monday 4:00, Monday 5:00, Tuesday 7:00
+*Billy, Monday 6:00, Tuesday 6:00, Wednesday 4:00
+*Ben, Monday 5:00, Tuesday 7:00, Wednesday 12:30
